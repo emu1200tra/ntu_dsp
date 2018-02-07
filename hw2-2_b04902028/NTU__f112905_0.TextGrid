@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.233 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 2.233 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16546205209966056 
+            text = "t_uei" 
+        intervals [2]:
+            xmin = 0.16546205209966056 
+            xmax = 0.21926029190608554 
+            text = "sp" 
+        intervals [3]:
+            xmin = 0.21926029190608554 
+            xmax = 0.33855654079370434 
+            text = "b_a" 
+        intervals [4]:
+            xmin = 0.33855654079370434 
+            xmax = 0.5491284465086389 
+            text = "ang" 
+        intervals [5]:
+            xmin = 0.5491284465086389 
+            xmax = 0.6253524614597983 
+            text = "tz_empt" 
+        intervals [6]:
+            xmin = 0.6253524614597983 
+            xmax = 0.8131323126298183 
+            text = "empt2" 
+        intervals [7]:
+            xmin = 0.8131323126298183 
+            xmax = 0.8675696004382199 
+            text = "t_e" 
+        intervals [8]:
+            xmin = 0.8675696004382199 
+            xmax = 1.1180680301549855 
+            text = "eng" 
+        intervals [9]:
+            xmin = 1.1180680301549855 
+            xmax = 1.1754564698266576 
+            text = "t_u" 
+        intervals [10]:
+            xmin = 1.1754564698266576 
+            xmax = 1.475395730419433 
+            text = "ueng" 
+        intervals [11]:
+            xmin = 1.475395730419433 
+            xmax = 1.7213649872804755 
+            text = "l_i" 
+        intervals [12]:
+            xmin = 1.7213649872804755 
+            xmax = 1.8390880062244437 
+            text = "h_a" 
+        intervals [13]:
+            xmin = 1.8390880062244437 
+            xmax = 2.0981690024960815 
+            text = "ai" 
+        intervals [14]:
+            xmin = 2.0981690024960815 
+            xmax = 2.233 
+            text = "sil" 
